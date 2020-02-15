@@ -4,7 +4,7 @@ static int dinero = 0;
 static int devolver = 0;
 static int moneda = 0;
 static int next_time = 0;
-static int boto = 0;
+static int boton = 0;
 
 
 void delay_until (unsigned int next)|{

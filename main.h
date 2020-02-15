@@ -5,16 +5,11 @@
 #include "fsm.h"
 #include "monedero.h"
 #include "cafetera.h"
-#include "main_lib.h"
 
 // ENTRADAS
 #define  GPIO_BOTON 1
 #define  GPIO_DEVOLVER 2
 #define  GPIO_MONEDA 3
-
-#define GPIO_MONEDA_10 4
-#define GPIO_MONEDA_20 5
-#define GPIO_MONEDA_50 6
 
 extern int dinero;
 extern int next_time;
